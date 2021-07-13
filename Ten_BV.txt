@@ -1,0 +1,106 @@
+Tâm lý trading, phần khó nhất trong giao dịch
+Là gì khi ubuntu khởi động mãi không vào được
+2 bài học từ người thầy đáng quý của tôi
+Review sách : “đi tìm lẽ sống” tác giả “Viktor E. Frankl”
+Tính cùng Nghĩa: 10 năm theo phương pháp đầu tư theo phương pháp trung bình giá
+Vài suy nghĩ về tài chính hiện tại (25 tuổi)
+Ngồi nhớ lại hành trình 7 năm code (part 5, part cuối)
+Ngồi nhớ lại hành trình 7 năm code (part 4)
+Ngồi nhớ lại hành trình 7 năm code (part 3)
+Ngồi nhớ lại hành trình 7 năm code (part 2)
+Ngồi nhớ lại hành trình 7 năm code (part 1)
+Nay tôi khủng hoảng tí thôi
+Cách cài đặt openssh server trên ubuntu
+Command line cài đặt teamview, chrome, telegram trên unbuntu
+Cách thay đổi màu sắc cho terminal windows
+Cách xóa các process đang sleep trong mysql server
+Cách xem có bao nhiêu luồng đang kết nối đến mysql server
+Cách xem phân bố dung lượng file và thư mục trên ubuntu
+2 câu lệnh linux mình hay dùng để xem file visual manager
+Cách cài đặt golang trên ubuntu 18.04
+Khắc phục terminal không lên trong ubuntu 20
+Cách xem youtube tivi trên laptop
+Cách cài đặt cloudfare loại trừ wordpress admin
+Cách fix The link you followed has expired. trên wordpress
+Cách cài đặt wp super cache
+Cách tạo cron job linux auto reboot
+Cách replace chuỗi trong mysql
+Cách xóa 100 file random trong 1 thư mục
+Cách cài đặt java trên ubuntu
+Cách tăng số lượng kết nối đến mysql
+Cách để suy nghĩ như một senior developer
+Cách thêm proxy vào chrome selenium
+Cách cài đặt filezilla trên ubuntu
+Cách di chuyển số lượng lớn file giữa 2 thư mục
+Cách đổi tên file hàng loạt dùng bash script
+Cài đặt và sử dụng docker cơ bản trên ubuntu server
+Cách import file sql kích cỡ lớn vào phpmyadmin
+Cách cài wordpress trên ubuntu server (ubuntu 20) sử dụng lamp
+Cài đặt nodejs trên ubuntu
+Cách cài anaconda trên ubuntu server
+Cài php.ini để upload file sql lớn lên php admin
+permission trong linux
+Cách zip và unzip file trên ubuntu
+Cách cài gui cho vps
+Cách cài đặt wordpress trên ubuntu
+Cách cài nhiều website trên cùng 1 vps
+Cách cài đặt cơ sở dữ liệu mysql , php myadmin trên vps ubuntu server và cho phép kết nối mysql từ xa
+Cách fake ip toàn máy bằng ssh
+Cách deploy react app lên vps
+Cách deploy nodejs lên vps
+5 lý do tuyệt vời để dậy lúc 5h sáng mỗi ngày
+Học cách code, theo cách khó nhất
+6 thói quen của người siêu tự học
+5 thói quen sẽ giúp não bạn luôn ở đạt đỉnh
+Cách để chọn sự nghiệp phù hợp nhất với bạn
+25 thứ bạn độc hại bạn cần bỏ qua
+Làm thế nào để huấn luyện não bạn nhớ được hầu hết mọi thứ
+Từ nhà phát triển web đến nhà phát triển phần mềm : tôi đã bắt đầu như thế nào
+Đây là lý do tại sao nhiều nhà khoa học dữ liệu (data scientists) đang bỏ việc
+Học toán để làm gì ?
+Tôi đã chống lại sự trì hoãn bởi làm điều này
+Những gì tôi đã học trong 6 tháng trong công việc đầu tiên của tôi như một kỹ sư phát triển phần mềm tự học
+Sức mạnh của việc không làm gì
+Tán gái nhập môn chương 5
+Tán gái nhập môn chương 4
+Tán gái nhập môn chương 3
+Tán gái nhập môn chương 2
+Tán gái nhập môn chương 1
+Cách mua và set up 1 vps linux
+TOOL AUTO TẠO ACC ZINGME.VN V1.0 (NOT PASS CAPCHA)
+SHARE MÃ NGUỒN BIVISE SSH CLIENT VIẾT BẰNG AUTOIT
+LỆNH CMD ĐỂ TẮT BẬT DCOM
+API CỦA MAIL 10P CHO AE LÀM TOOL CẦN MAIL ẢO LIÊN TỤC
+Viết cho tuổi trẻ đã và đang dữ dội
+matplot lib cheet sheet
+Hỏi: Vài điều mà chỉ những người từng lập trình 20-50 năm mới biết là gì?
+THÍCH VÀ ĐAM MÊ
+Tại sao việt nam mãi nghèo
+Mark down cơ bản
+Tóm gọn cuốn sách nghĩ giàu làm giàu
+Hướng dẫn cơ bản cách dùng github
+Ai sẽ làm thay đổi cuộc đời tôi
+Free Data Science learning resources
+[Khát vọng tuổi trẻ] 7 Điều tuổi trẻ nên có
+Quan niệm của Đông y về giờ “vàng” thức dậy mỗi sáng: Nếu dậy sai giờ, cả ngày mệt mỏi!
+ĐỊNH LUẬT TRE
+Chia sẻ bộ Office 2010 win 10
+TÁN GÁI ĐẠI CƯƠNG chương 2
+TÁN GÁI ĐẠI CƯƠNG chương 1
+15 WEB NÂNG CẤP NÃO BỘ 
+[ Python cơ bản ] Bài 0 : Lời nói đầu
+Hướng thêm bình luận facebook vào bình luận website
+1 số câu lệnh thông dụng terminal trong linux
+Cách chỉnh tốc độ video khi xem online
+Matlab cơ bản
+Cuộc đời này ta còn bao nhiêu lần được về quê nữa
+Một dcom 3g viettel có bao nhiêu ip (1 sim)
+ĐÀN ÔNG THÀNH CÔNG TRƯỚC TUỔI 30 SẼ KHÔNG BAO GIỜ TỐN THỜI GIAN VÀO NHỮNG TRÒ VÔ BỔ
+CÓ TÂM LÝ KẺ MẠNH NHƯ LOÀI SÓI: BẠN ĐÃ THẮNG 90% TRẬN CHIẾN CUỘC ĐỜI
+CÔNG THỨC KHÔNG TRÌ HOÃN: 4 GIÂY – 2 PHÚT – 72 GIỜ VÀ 21 NGÀY
+NGƯỜI VIỆT QUÁ LƯỜI BIẾNG NHƯNG HAM ĐỔI ĐỜI BẰNG CÁCH ĐỎ ĐEN LIỀU MẠNG
+KHI BẠN THAY ĐỔI THẾ GIỚI BÊN TRONG, THẾ GIỚI BÊN NGOÀI CŨNG THAY ĐỔI
+1000 TỪ VỰNG TIẾNG ANH QUA THƠ LỤC BÁT (TÀI LIỆU HIẾM)
+Ví dụ code C in trái tim ra màn hình console
+Thuật toán sắp xếp đơn giản trong autoit
+Khai bút blog nghiahsgs
